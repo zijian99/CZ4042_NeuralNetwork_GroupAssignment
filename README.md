@@ -2,9 +2,10 @@
 
 <b>Topic E:</b> Clothing Classification<br><br>
 
-<b>Dataset:</b> [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)<br><br>
+<b>Dataset :</b> [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)<br>
 
-<b>Technique Used</b><br><br>
+<b>Model Used :</b> [ResNet-18 by PyTorch](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html)<br><br>
+<b><u>Technique Used</u></b><br><br>
 Data Augmentation:
 1. Basic Augmentation Technique
 2. MixUp
