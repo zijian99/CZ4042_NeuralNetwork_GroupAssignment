@@ -19,6 +19,6 @@ Architecture Related:
 <br>
 Group Member:<br>
 
-[Min](https://github.com/mink0003)<br>
+[Min](https://github.com/kk-min)<br>
 [QiYuan](https://github.com/hhuppii)<br>
 [Zi Jian](https://github.com/zijian99)<br>
